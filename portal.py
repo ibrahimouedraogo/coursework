@@ -9,5 +9,5 @@ if __name__=="__main__":
 
   print("Finance Service  Portal")
   print("--------------------------")
-print("Transaction Amount:", amount)
+  print("Transaction Amount:", amount)
 print("Processing Fee:", fee)
