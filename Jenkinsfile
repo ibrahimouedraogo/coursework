@@ -3,7 +3,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'praveenmasthan/finance-service-portal'
+        IMAGE_NAME = 'ibr93/finance-service-portal'
     }
 
     stages {
